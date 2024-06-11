@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "johndoe@example.com",
+      "phone": "123-456-7890",
+      "website": "http://johndoe.com"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "janesmith@example.com",
+      "phone": "234-567-8901",
+      "website": "http://janesmith.com"
+    },
+    {
+      "id": "3",
+      "name": "Robert Brown",
+      "username": "robertbrown",
+      "email": "robertbrown@example.com",
+      "phone": "345-678-9012",
+      "website": "http://robertbrown.com"
+    },
+    {
+      "id": "4",
+      "name": "Emily Davis",
+      "username": "emilydavis",
+      "email": "emilydavis@example.com",
+      "phone": "456-789-0123",
+      "website": "http://emilydavis.com"
+    },
+    {
+      "id": "5",
+      "name": "Michael Wilson",
+      "username": "michaelwilson",
+      "email": "michaelwilson@example.com",
+      "phone": "567-890-1234",
+      "website": "http://michaelwilson.com"
+    },
+    {
+      "id": "6",
+      "name": "Sarah Johnson",
+      "username": "sarahjohnson",
+      "email": "sarahjohnson@example.com",
+      "phone": "678-901-2345",
+      "website": "http://sarahjohnson.com"
+    },
+    {
+      "id": "7",
+      "name": "David Martinez",
+      "username": "davidmartinez",
+      "email": "davidmartinez@example.com",
+      "phone": "789-012-3456",
+      "website": "http://davidmartinez.com"
+    },
+    {
+      "id": "8",
+      "name": "Jessica Lee",
+      "username": "jessicalee",
+      "email": "jessicalee@example.com",
+      "phone": "890-123-4567",
+      "website": "http://jessicalee.com"
+    },
+    {
+      "id": "9",
+      "name": "William Taylor",
+      "username": "williamtaylor",
+      "email": "williamtaylor@example.com",
+      "phone": "901-234-5678",
+      "website": "http://williamtaylor.com"
+    },
+    {
+      "id": "10",
+      "name": "Karen Harris",
+      "username": "karenharris",
+      "email": "karenharris@example.com",
+      "phone": "012-345-6789",
+      "website": "http://karenharris.com"
+    }
+  ]
+}
